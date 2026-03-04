@@ -68,7 +68,7 @@ bevy_time = { path = "../bevy/crates/bevy_time", default-features = false, optio
 libm = { path = "../bevy/crates/libm", default-features = false, optional = true }
 
 [dev-dependencies]
-bevy = "0.18.0"
+bevy = { path = "../bevy/" }
 noise = "0.9"
 turborand = "0.10"
 criterion = "0.8"
