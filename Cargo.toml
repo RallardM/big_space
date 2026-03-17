@@ -65,7 +65,8 @@ bevy_input = { path = "../bevy/crates/bevy_input", default-features = false, opt
   "mouse",
 ] }
 bevy_time = { path = "../bevy/crates/bevy_time", default-features = false, optional = true }
-libm = { path = "../bevy/crates/libm", default-features = false, optional = true }
+libm = { version = "0.2", default-features = false, optional = true }
+
 
 [dev-dependencies]
 bevy = { path = "../bevy/" }
