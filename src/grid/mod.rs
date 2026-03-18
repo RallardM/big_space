@@ -1,3 +1,4 @@
+// vendor\big_space\src\grid\mod.rs
 //! Adds the concept of hierarchical, nesting [`Grid`]s, to group entities that move through space
 //! together, like entities on a planet, rotating about the planet's axis, and, orbiting a star.
 

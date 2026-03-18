@@ -1,3 +1,4 @@
+// vendor\big_space\src\world_query.rs
 //! A helper query argument that ensures you don't forget to handle the [`CellCoord`] when you work
 //! with a [`Transform`].
 

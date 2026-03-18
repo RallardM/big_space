@@ -1,3 +1,4 @@
+// vendor\big_space\examples\infinite.rs
 //! Big spaces are infinite, looping back on themselves smoothly. This example requires the use of
 //! the `i8` feature, because a small world is needed to be able to see the "edge".
 

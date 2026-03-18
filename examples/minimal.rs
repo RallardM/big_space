@@ -1,3 +1,4 @@
+// vendor\big_space\examples\minimal.rs
 //! Minimal example of spawning meshes and a floating origin camera.
 
 use bevy::prelude::*;

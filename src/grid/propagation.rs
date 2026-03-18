@@ -1,3 +1,4 @@
+// vendor\big_space\src\grid\propagation.rs
 //! Logic for propagating transforms through the hierarchy of grids.
 
 use crate::prelude::*;

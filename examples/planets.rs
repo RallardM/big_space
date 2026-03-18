@@ -1,3 +1,4 @@
+// vendor\big_space\examples\planets.rs
 //! A practical example of a spare ship on a planet, in a solar system, surrounded by stars.
 extern crate alloc;
 

@@ -1,3 +1,4 @@
+// vendor\big_space\src\floating_origins.rs
 //! A floating origin for camera-relative rendering, to maximize precision when converting to f32.
 
 use bevy_ecs::prelude::*;

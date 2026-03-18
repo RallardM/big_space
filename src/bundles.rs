@@ -1,3 +1,4 @@
+// vendor\big_space\src\bundles.rs
 //! Component bundles for `big_space`.
 
 use crate::prelude::*;

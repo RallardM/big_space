@@ -1,3 +1,4 @@
+// vendor\big_space\src\plugin.rs
 //! The bevy plugin for `big_space`.
 
 use crate::*;
